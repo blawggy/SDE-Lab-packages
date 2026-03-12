@@ -71,7 +71,7 @@ SDE-Lab-packages/
 3. **Select a lab profile** *(optional — defaults to `dev`)*
 
    ```bash
-   sudo bash scripts/install.sh --profile data-science
+   lab create <Lab-project>
    ```
 
 ---
